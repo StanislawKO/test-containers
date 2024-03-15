@@ -9,7 +9,7 @@ posts.
 
 It uses Spring Boot 3.2.0, Postgres as database and Testcontainers for testing.
 
-### Environments
+### Environments 
 
 You need to provide next variables in `.env` file.
 
